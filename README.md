@@ -1,8 +1,9 @@
-# 🍔 Food Delivery MERN Appliation
-
+## Food Delivery MERN Appliation
 A modern food delivery web application built using the MERN stack.
 
-## 🚀 Features
+---
+
+### Features
 - Browse restaurants
 - View food items
 - Add items to cart
@@ -11,7 +12,9 @@ A modern food delivery web application built using the MERN stack.
 - Category filters
 - Search functionality
 
-## 🛠 Tech Stack
+---
+
+### Tech Stack
 Frontend:
 - React.js
 - Tailwind CSS
@@ -23,7 +26,10 @@ Backend:
 Database:
 - MongoDB
 
-## 📂 Project Structure
+---
+
+### Project Structure
+```
 food-delivery-mern-project
 │
 ├── frontend
@@ -34,32 +40,37 @@ food-delivery-mern-project
 ├── backend
 │ ├── models
 │
+```
+---
 
-## ⚡ Installation
-
-Clone the repository
-
+### Installation
+```
+1️⃣ Clone the repository
 git clone https://github.com/Keerthana-webdev/food-delivery-application.git
 
-Install dependencies
-
+2️⃣ Install dependencies
 cd client  
 npm install  
 
-Run the project
+3️⃣ Run the project
 npm start
 
-cd server  
+4️⃣ cd server  
 npm install  
 
-Run the project
+5️⃣ Run the project
 node server.js
+```
+---
 
-## 🌐 Future Improvements
+### Future Improvements
 - User authentication
 - Payment integration
 - Order tracking
 - Admin dashboard
 
-## 👩‍💻 Author
-Keerthana S
+---
+
+### Author
+
+#### Keerthana S
