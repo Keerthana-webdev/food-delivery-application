@@ -39,7 +39,7 @@ food-delivery-mern-project
 │
 ├── backend
 │ ├── models
-│
+└──
 ```
 ---
 
